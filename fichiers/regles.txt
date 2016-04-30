@@ -1,0 +1,95 @@
+But du jeu
+
+Etre le premier à atteindre la case "victoire" avec un de ses pions, après un parcours 
+semé d'embûches.
+
+Eléments d'une partie
+   Les pions noirs appelés "barricades".
+   Les pions des joueurs, avec :
+    - Un nombre identique de pions de couleurs pour chaque joueur.
+    - Une couleur par joueur.
+    - Le plateau de jeu avec :
+    - Les "maisons" des joueurs constituées de cases de la même couleur que les pions
+      du joueur. C'est d'ici que commencent les joueurs.
+    - Les cases de déplacement sur lesquelles les pions des joueurs évoluent et les 
+      barricades se trouvent. Les cases sur lesquelles se situent les barricades au
+      début de la partie sont noires.
+    - La case "victoire", qui est blanche.
+   Un dé pour effectuer les déplacements.
+
+Déroulement d'une partie
+
+Barricade se joue au tour par tour. Une fois l'ordre des tours établi (par l'ordi),
+il reste le même durant toute la partie. Les joueurs jouent chacun leur tour jusqu'à
+ce que l'un d'eux réussisse à poser un de ses pions sur la case tout en haut du plateau 
+Lorsqu'il y parvient, ce dernier joueur est alors déclaré vainqueur.
+
+Le déroulement d'un tour est le suivant :
+    Le joueur :
+        1) Lance le dé. (clic droit sur le dé)
+        2) Déplace un de ses pions sur le plateau suivant les règles de déplacement
+A tout moment dans son tour, le joueur peut décider de passer la main et de ne pas
+déplacer de pion (par exemple s'il estime que le jet de dé ne lui est pas favorable).
+
+Déplacements et actions
+
+Les déplacement et actions sont régis par les règles suivantes :
+    - Un pion se déplace d'autant de cases qu'indiqué par le résultat du dé. La case
+      d'origine du pion ne compte pas.
+    - Lorsqu'il avance, un pion décrit un chemin constitué de cases contigües,
+      horizontalement ou verticalement mais jamais en diagonale.
+    - Lorsqu'il avance selon le nombre de cases indiqué par le dé, un pion ne peut
+      pas revenir imméditement sur la case précédente sur son chemin.
+    - Lorsqu'un pion est à la maison, la case numéro 1 du chemin est la case "D"
+      devant la maison.
+    - Un pion peut passer par dessus les autres pions (amis ou ennemis), mais pas
+      par dessus les barricades. Une barricade est infranchissable. Pour passer de
+      l'autre côté d'une barricade, il faut d'abord la prendre.
+    - Lorsqu'il termine son chemin selon le nombre de cases indiqué par le dé, un
+      pion ne peut arriver que :
+        > Sur une case vide
+        > Sur une case avec une barricade
+        > Sur une case avec un pion adverse
+    - Pour prendre une barricade, il faut tomber dessus avec le nombre exact de cases
+      indiqué par le dé. Une barricade prise doit être immédiatement replacée sur
+      n'importe quelle case vide du jeu, sauf une case "maison" et la ligne de case
+      devant les maisons. Il est conseillé de poser les barricades là où l'on empêche
+      les pions adverses de progresser ou à des endroits protégeant les pions amis des
+      pions ennemis.
+    - Pour prendre un pion adverse, il faut tomber dessus avec le nombre exact de cases
+      indiqué par le dé. Un pion pris doit immédiatement être remis dans sa maison.
+    - Aucun pion (de joueur ou barricade) ne sort jamais du plateau.
+
+Jeu en équipe
+
+Le jeu en équipe se joue à au moins 3 joueurs. Une équipe est constituée d'au moins
+1 joueur (possibilité de jouer 2 contre 2, 1 contre 2...etc).
+Un joueur ne peut pas :
+    - Jouer un pion de ses coéquipiers.
+    - Prendre un pion de ses coéquipiers.
+Une équipe est déclarée victorieuse lorsqu'un des joueurs de l'équipe est le premier
+à poser un de ses pions sur la case tout en haut.
+
+Tactique pendant le jeu :
+Jouer avec plusieurs pion à la fois est à conseiller parce que l’on peut ainsi plus
+facilement passer les barricades. On arrive à retarder la mieux son adversaire en
+posant une barricade de telle sorte qu'il ne peut plus avancer qu’après avoir
+lancé un 1.
+Exemple : O*O*O*O*O* -->    * = barricades
+Au contraire l'exemple suivant montre qu'une série de barricades posées les unes
+derrière les autres sont bien plus faciles à dépasser :
+OOOO**** --> * = barricades
+(Dans ce cas à chaque chiffre de 1 à 4 on fait tomber une barricade).
+Quand le premier joueur atteint le dernier coin avant le but on devrait poser,
+si possible, plusieurs barricades, devant lui. Ce joueur d'élite est naturellement
+l’ennemi de tous les autres. Les autres joueurs peuvent donc se concerter pour
+décider de ne pas se gêner mutuellement et d'évincer par tous les moyens
+le «gagnant».
+Celui-ci utilisera ses autres pions pour empêcher ses ennemis d'approcher.
+On peut aussi établir au début du jeu, l'obligation d'évincer tous les pions sur la
+dernière ligne avant d’atteindre le but. Si on réussit à bloquer tous les pions d'un
+joueur de telle sorte qu'il ne puisse plus avancer, ces pions resteront
+sans bouger jusqu'à ce qu'il puisse à son tour se libérer par un coup direct.
+Si un joueur se trouve devant le but et n’a pas d'autre pion qu'il puisse faire
+avancer, il doit reculer à nouveau du nombre de points indiqués par son dé s'il n’en
+est pas empêché par une barricade.
