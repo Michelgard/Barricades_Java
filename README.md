@@ -8,5 +8,5 @@ C'est a venir.
 
 Bon jeu
 
-http://rasp-pi.fr.nf
-raspberrypi.gard@gmail.com
+https://www.blog-de-michel.fr
+contact@blog-de-michel.fr
